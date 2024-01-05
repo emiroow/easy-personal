@@ -1,3 +1,21 @@
 {
-    "test" : "امیر"
+  "PersonalInfo": "مشخصات",
+  "Skills": "مهارت ها",
+  "Experience": "تجربه",
+  "Profiles": "شبکه های مجازی",
+  "telegram": "تلگرام",
+  "instagram": "اینستاگرام",
+  "github": "گیت هاب",
+  "twitter": "توییتر",
+  "linkedin": "لینکدین",
+  "Birthday": "سال تولد",
+  "Education": "تجربه",
+  "Military": "سربازی",
+  "Location": "آدرس",
+  "Email": "ایمیل",
+  "Mobile": "موبایل",
+  "advanced": "پیشرفته",
+  "medium": "متوسط",
+  "beginner": "مبتدی",
+  "Portfolio": "نمونه کار"
 }

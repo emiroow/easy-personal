@@ -1,3 +1,21 @@
 {
-    "test" : "Amir"
+  "PersonalInfo": "Personal Info",
+  "Skills": "Skills",
+  "Experience": "Experience",
+  "Profiles": "Profiles",
+  "telegram": "telegram",
+  "instagram": "instagram",
+  "github": "github",
+  "twitter": "twitter",
+  "linkedin": "linkedin",
+  "Birthday": "Birthday",
+  "Education": "Education",
+  "Military": "Military",
+  "Location": "Location",
+  "Email": "Email",
+  "Mobile": "Mobile",
+  "advanced": "advanced",
+  "medium": "medium",
+  "beginner": "beginner",
+  "Portfolio": "Portfolio"
 }

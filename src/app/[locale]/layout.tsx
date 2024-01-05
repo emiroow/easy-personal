@@ -15,7 +15,7 @@ export default function LocaleLayout({ children, params: { locale } }: any) {
   // if (!locales.includes(locale as any)) notFound();
 
   return (
-    <html lang={locale}>
+    <html dir={locale === "en" ? "ltr" : "rtl"} lang={locale}>
       <body className="bg-mainBackground text-white">{children}</body>
     </html>
   );

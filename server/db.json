@@ -1,6 +1,188 @@
 {
-  "lang": {
-    "fa": {},
-    "en": {}
+  "fa": {
+    "language": "fa",
+    "about": {
+      "name": "امیر اسماعیل زاده",
+      "position": "برنامه نویس فرانت اند",
+      "email": "amiresmaeelzadeh81@gmail.com",
+      "phoneNumber": "09142369599",
+      "country": "ایران",
+      "city": "تبریز",
+      "Military": "دانشجو",
+      "Education": "کاردانی شبکه و نرم افزار",
+      "description": "توسعه دهنده وب با سابقه 2 سال کار مرتبط در زمینه برنامه نویسی، پایبند به اصول برنامه نوسی تحت وب و Clean Code  و همچنین در طراحی UI ، توسعه وبسایت و وب اپلیکیشن‌ ها",
+      "birthday": "2002-12-06T00:00:00",
+      "avatarUrl": "https://api.emiroow.ir/Files/Public/86824829_47594047-dabc-4507-8c71-180030ea119d.jpg",
+      "lang": "fa"
+    },
+    "histories": [
+      {
+        "id": 15,
+        "title": "پلاتین",
+        "dateTime": "2021-04-21T20:10:00",
+        "endDateTime": "2021-09-22T20:10:00",
+        "description": "کار آموز به عنوان برنامه نویس فرانت اند",
+        "lang": "fa"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "title": "Html",
+        "value": "advanced",
+        "lang": "fa"
+      }
+    ],
+    "portfolios": [
+      {
+        "portfolioId": 1,
+        "title": "پنل مدریت کارگو",
+        "description": "پنل کاری کارگو سایت مدریت محصولات از فروشگاه ای معروف کشور های دیگه به کاربران ساکن آذربایجان .",
+        "link": "https://panel.exkargo.az/",
+        "lang": "en"
+      }
+    ],
+    "socials": [
+      {
+        "id": 54,
+        "title": "string",
+        "iconName": "WhatsApp",
+        "link": "https://wa.me/+989142369599",
+        "lang": "fa"
+      },
+      {
+        "id": 57,
+        "title": "string",
+        "iconName": "Github",
+        "link": "https://github.com/emiroow",
+        "lang": "fa"
+      },
+      {
+        "id": 58,
+        "title": "string",
+        "iconName": "Instagram",
+        "link": "https://www.instagram.com/emiroow",
+        "lang": "fa"
+      },
+      {
+        "id": 61,
+        "title": "string",
+        "iconName": "Telegram",
+        "link": "https://t.me/emiroow",
+        "lang": "fa"
+      },
+      {
+        "id": 62,
+        "title": "string",
+        "iconName": "Linkedin",
+        "link": "https://www.linkedin.com/in/amir-esmaeelzadeh-79b1a1226/",
+        "lang": "fa"
+      }
+    ]
+  },
+  "en": {
+    "language": "en",
+    "about": {
+      "name": "Amir Esmaeelzadeh",
+      "position": "Fron End Developer",
+      "email": "Amiresmaeelzadeh@gmail.com",
+      "phoneNumber": "09142369599",
+      "country": "Iran",
+      "city": "Tabriz",
+      "Military": "Student",
+      "Education": "Network and Software Associate",
+      "description": "Web developer with 2 years of relevant work experience in the field of programming, adhering to the principles of web programming and Clean Code, as well as in UI design, website development and web applications.",
+      "birthday": "2002-12-06T00:00:00",
+      "avatarUrl": "https://api.emiroow.ir/Files/Public/86824829_ef0730b1-e4d1-4f72-ba7f-60032a3ced3b.jpg",
+      "lang": "en"
+    },
+    "histories": [
+      {
+        "id": 11,
+        "title": "Trainee Pelatin",
+        "dateTime": "2021-04-21T00:00:00",
+        "endDateTime": "2021-09-22T00:00:00",
+        "description": "Trainee as a front-end programmer",
+        "lang": "en"
+      },
+      {
+        "id": 12,
+        "title": "Pelatin",
+        "dateTime": "2021-09-23T20:11:00",
+        "endDateTime": "2022-09-22T00:00:00",
+        "description": " front-end programmer & Ui",
+        "lang": "en"
+      },
+      {
+        "id": 19,
+        "title": "Arman Amin Azerbaijan",
+        "dateTime": "2022-11-22T20:14:00",
+        "endDateTime": "2023-06-21T20:31:00",
+        "description": "front-end programmer",
+        "lang": "en"
+      },
+      {
+        "id": 20,
+        "title": "MelkTabriz",
+        "dateTime": "2023-07-16T20:17:00",
+        "endDateTime": "2023-10-16T20:32:00",
+        "description": " front-end programmer & Ui",
+        "lang": "en"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "title": "Html",
+        "value": "advanced",
+        "lang": "en"
+      }
+    ],
+    "portfolios": [
+      {
+        "portfolioId": 1,
+        "title": "پنل مدریت کارگو",
+        "description": "پنل کاری کارگو سایت مدریت محصولات از فروشگاه ای معروف کشور های دیگه به کاربران ساکن آذربایجان .",
+        "link": "https://panel.exkargo.az/",
+        "lang": "en"
+      }
+    ],
+    "socials": [
+      {
+        "id": 55,
+        "title": "string",
+        "iconName": "WhatsApp",
+        "link": "https://wa.me/+989142369599",
+        "lang": "en"
+      },
+      {
+        "id": 56,
+        "title": "string",
+        "iconName": "Github",
+        "link": "https://github.com/emiroow",
+        "lang": "en"
+      },
+      {
+        "id": 59,
+        "title": "string",
+        "iconName": "Instagram",
+        "link": "https://www.instagram.com/emiroow",
+        "lang": "en"
+      },
+      {
+        "id": 60,
+        "title": "string",
+        "iconName": "Telegram",
+        "link": "https://t.me/emiroow",
+        "lang": "en"
+      },
+      {
+        "id": 63,
+        "title": "string",
+        "iconName": "Linkedin",
+        "link": "https://www.linkedin.com/in/amir-esmaeelzadeh-79b1a1226/",
+        "lang": "en"
+      }
+    ]
   }
 }
